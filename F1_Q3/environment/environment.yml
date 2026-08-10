@@ -1,0 +1,9 @@
+name: f1-quota-rd-replication
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pandas>=2.2
+  - numpy>=2.0
+  - scipy>=1.13
+  - matplotlib>=3.8

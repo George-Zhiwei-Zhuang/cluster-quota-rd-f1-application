@@ -1,0 +1,6 @@
+Season,Round,Race,Q2 recorded times,Q3 recorded times,Rank 10-11 gap (sec),Exclusion reason
+2011,17,Indian Grand Prix,17,7,0.0,nonpositive_focal_gap
+2015,16,United States Grand Prix,15,0,0.0660000000000025,q3_not_held
+2016,1,Australian Grand Prix,15,8,0.0960000000000036,nonstandard_q3_capacity
+2016,2,Bahrain Grand Prix,15,8,0.0439999999999969,nonstandard_q3_capacity
+2018,16,Russian Grand Prix,10,10,,q2_count=10; focal_rank_count=1

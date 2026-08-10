@@ -1,0 +1,6 @@
+data/raw/*
+data/external/*
+data/interim/*
+data/processed/*
+output/logs/*
+!**/.gitkeep

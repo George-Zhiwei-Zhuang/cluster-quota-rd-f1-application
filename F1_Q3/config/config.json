@@ -1,0 +1,14 @@
+{
+  "project_title": "Formula One Q3 Fixed-Quota Diagnostic Illustration",
+  "api_base": "https://api.jolpi.ca/ergast/f1",
+  "user_agent": "QuotaRDD-F1-Replication/1.0",
+  "qualifying_seasons": [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
+  "results_seasons": [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
+  "page_limit": 100,
+  "request_pause_seconds": 0.32,
+  "bootstrap_replications": 20000,
+  "seed": 20260808,
+  "focal_treated_rank": 10,
+  "focal_control_rank": 11,
+  "neighbor_ranks": [8, 9, 10, 11, 12, 13]
+}

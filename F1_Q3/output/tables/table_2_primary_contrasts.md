@@ -1,0 +1,13 @@
+# Table 2 Primary Contrasts
+
+| Variable | Estimate | N | Race-i.i.d. 95% CI | Season-cluster 95% CI | Season-bootstrap 95% CI | Race x driver 95% CI |
+| --- | --- | --- | --- | --- | --- | --- |
+| Race points | 0.679 | 193 | [-0.253, 1.611] | [-0.063, 1.420] | [0.083, 1.296] | [-0.242, 1.599] |
+| Top-ten finish | 0.067 | 193 | [-0.030, 0.165] | [-0.025, 0.160] | [-0.010, 0.141] | [-0.033, 0.167] |
+| Starting-grid position | -2.461 | 193 | [-2.879, -2.043] | [-2.946, -1.976] | [-2.823, -2.030] | [-2.872, -2.050] |
+| Prior-season points (complete pair) | 1.073 | 130 | [-19.133, 21.279] | [-17.859, 20.006] | [-16.234, 15.186] | [-16.421, 18.568] |
+| Prior-season points per start (complete pair) | 0.071 | 130 | [-0.973, 1.115] | [-0.894, 1.036] | [-0.836, 0.789] | [-0.829, 0.971] |
+| No-prior-season-history indicator | -0.016 | 193 | [-0.092, 0.060] | [-0.104, 0.073] | [-0.093, 0.052] | [-0.087, 0.056] |
+| Q1 lap-time advantage, seconds | 0.044 | 193 | [-0.046, 0.134] | [-0.070, 0.158] | [-0.055, 0.135] | [-0.055, 0.142] |
+
+Notes: Prior-season performance variables use only races in which both focal drivers had at least one start in the preceding season. The history indicator is reported separately. Intervals are sampling-based sensitivities, not design-based randomization intervals.
